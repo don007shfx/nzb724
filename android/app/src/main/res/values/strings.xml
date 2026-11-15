@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NZB-7/24</string>
+    <string name="title_activity_main">NZB-7/24</string>
+    <string name="package_name">app.nzb724.controlroom</string>
+    <string name="custom_url_scheme">app.nzb724.controlroom</string>
+</resources>
