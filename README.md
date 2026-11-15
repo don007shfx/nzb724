@@ -169,3 +169,11 @@ that keep the UI service-agnostic.
   remote server.
 - Reaching LAN services from a phone needs the phone on the same network, or a
   VPN/Tailscale route to those ports.
+
+## License
+
+[MIT](./LICENSE) © 2026 don007shfx.
+
+MIT covers this app's own code. It is not affiliated with, endorsed by, or
+derived from Sonarr, Radarr, Lidarr, SABnzbd, NZBGet or any other third-party
+client; those names belong to their respective projects.

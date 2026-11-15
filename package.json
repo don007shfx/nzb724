@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "description": "NZB-7/24 - one control room for your *arr and Usenet stack",
+  "license": "MIT",
   "main": "electron/main.cjs",
   "scripts": {
     "dev": "vite",
